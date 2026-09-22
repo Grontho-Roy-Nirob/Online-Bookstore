@@ -8,11 +8,7 @@ The Digital Online Bookstore Platform allows customers to browse books, view det
 
 This project was developed to gain practical experience in **full-stack web development, database design, authentication, e-commerce functionality, and user-friendly web application development**.
 
-## 👨‍💻 Role / Contribution
-
-**Developer**
-
-I was responsible for developing the application using:
+## 👨‍💻 TechStack
 
 * PHP
 * JavaScript
